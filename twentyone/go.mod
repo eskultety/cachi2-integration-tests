@@ -1,3 +1,3 @@
-module github.com/cachito-testing/cachi2-gomod/twentyone
+module github.com/eskultety/cachi2-integration-tests/twentyone
 
 go 1.21
