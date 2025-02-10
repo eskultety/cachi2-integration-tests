@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    "github.com/hermetoproject/integration-tests/twentyone"
+    "github.com/eskultety/cachi2-integration-tests/gomod_twentyone"
 )
 
 func main() {
